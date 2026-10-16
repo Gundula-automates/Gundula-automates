@@ -19,7 +19,9 @@ Vom Problem Statement über Risikoanalyse und Human-in-the-Loop-Konzept bis zum 
 
 ## Methoden & Werkzeuge
 
-**Projektmanagement:** SMART-Ziele, RACI, Risikoregister, PDCA, Change-Management (Kotter, SCARF)
+**Zertifizierungen:** Lean Six Sigma Green Belt · Professional Scrum Master I (PSM I)
+
+**Projektmanagement:** Scrum, DMAIC, SMART-Ziele, RACI, Risikoregister, PDCA, Change-Management (Kotter, SCARF)
 
 **Technisches Verständnis:** Workflow-Automatisierung (n8n), Notion, KI-Sprachmodelle, Microsoft 365
 
