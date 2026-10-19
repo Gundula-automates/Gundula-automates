@@ -10,12 +10,17 @@ Ich bin die Brücke zwischen Fachbereich und Technik: Ich übersetze Geschäftsa
 - **Fachbereich und IT verbinden** – Anforderungen verständlich machen, technische Entscheidungen einordnen, Beteiligte mitnehmen
 - **Verantwortungsvoller KI-Einsatz** – Human-in-the-Loop, Datenschutz, Mitbestimmung und Change-Management von Anfang an
 
-## Ausgewähltes Projekt
+## Ausgewählte Projekte
 
 ### [KI-Assistent für den IT-Service-Desk](https://github.com/Gundula-automates/ki-servicedesk-pilot)
 Vom Problem Statement über Risikoanalyse und Human-in-the-Loop-Konzept bis zum Pilot-Workflow in n8n. Den Prototyp habe ich selbst gebaut und getestet – um zu verstehen, was technisch möglich ist, wo die Grenzen liegen und welche Fragen ein Projektteam klären muss.
 
 `KI-Einführung` · `Projektmanagement` · `Human-in-the-Loop` · `Responsible AI` · `n8n` · `Notion`
+
+### [Angebotsvergleich Bau – KI-Empfehlung und RAG-Chat](https://github.com/Gundula-automates/angebotsvergleich-rag)
+Bauangebote kommen als PDF, Word-Datei oder Foto. Mein n8n-Workflow liest sie ein, legt jede Position strukturiert in Notion ab, schreibt eine Empfehlung, die Ausschlüsse und Lücken benennt, und beantwortet Rückfragen per RAG-Chat. Im Mittelpunkt stehen bewusste Abwägungen – Cloud oder lokal, Datenschutz, Kosten, Grenzen von RAG – sowie ein Testprotokoll mit offen benannten Schwächen.
+
+`RAG` · `KI-Agenten` · `Datenschutz` · `n8n` · `Ollama` · `Notion`
 
 ## Methoden & Werkzeuge
 
@@ -23,7 +28,7 @@ Vom Problem Statement über Risikoanalyse und Human-in-the-Loop-Konzept bis zum 
 
 **Projektmanagement:** Scrum, DMAIC, SMART-Ziele, RACI, Risikoregister, PDCA, Change-Management (Kotter, SCARF)
 
-**Technisches Verständnis:** Workflow-Automatisierung (n8n), Notion, KI-Sprachmodelle, Microsoft 365
+**Technisches Verständnis:** Workflow-Automatisierung (n8n), KI-Agenten und RAG, lokale Modelle (Ollama), Notion, Microsoft 365
 
 ## Kontakt
 
