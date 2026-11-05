@@ -13,7 +13,7 @@ Ich bin die Brücke zwischen Fachbereich und Technik: Ich übersetze Geschäftsa
 ## Ausgewählte Projekte
 
 ### [Elternbriefe → Notion: KI-Pilot mit Privacy by Design](https://github.com/Gundula-automates/n8n-elternbriefe-notion)
-Elternbriefe, Fotos von Aushängen und WhatsApp-Exporte werden per Upload eingelesen, eine KI erkennt Termine und Aufgaben und legt sie zur Prüfung in Notion ab. Kern des Projekts ist eine messbasierte Entscheidung: lokales Modell gegen Cloud-Modell im direkten Vergleich, mit Hybrid-Lösung als Ergebnis. Dazu Datenschutz-Maßnahmen von Anfang an und offen benannte Grenzen. Pilotprojekt meiner IHK-Prüfung zur KI-Integration Managerin.
+Elternbriefe, Fotos von Aushängen und WhatsApp-Exporte werden per Upload eingelesen, eine KI erkennt Termine und Aufgaben und legt sie zur Prüfung in Notion ab. Kern des Projekts ist eine messbasierte Entscheidung: lokales Modell gegen Cloud-Modell im direkten Vergleich, mit Hybrid-Lösung als Ergebnis. Dazu Datenschutz-Maßnahmen von Anfang an und offen benannte Grenzen. Pilotprojekt.
 
 `Privacy by Design` · `Modellvergleich` · `Human-in-the-Loop` · `n8n` · `Ollama` · `Groq` · `Notion`
 
