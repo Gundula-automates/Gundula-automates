@@ -33,7 +33,7 @@ Bauangebote kommen als PDF, Word-Datei oder Foto. Mein n8n-Workflow liest sie ei
 
 **Projektmanagement:** Scrum, DMAIC, SMART-Ziele, RACI, Risikoregister, PDCA, Change-Management (Kotter, SCARF)
 
-**Technisches Verständnis:** Workflow-Automatisierung (n8n), KI-Agenten und RAG, lokale Modelle (Ollama), Notion, Modellvergleich mit Testprotokoll, Microsoft 365
+**Technisches Verständnis:** Workflow-Automatisierung (n8n), KI-Agenten und RAG, lokale Modelle (Ollama), Groq, Notion, Modellvergleich mit Testprotokoll, Microsoft 365
 
 ## Kontakt
 
