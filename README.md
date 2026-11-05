@@ -12,6 +12,11 @@ Ich bin die Brücke zwischen Fachbereich und Technik: Ich übersetze Geschäftsa
 
 ## Ausgewählte Projekte
 
+### [Elternbriefe → Notion: KI-Pilot mit Privacy by Design](https://github.com/Gundula-automates/n8n-elternbriefe-notion)
+Elternbriefe, Fotos von Aushängen und WhatsApp-Exporte werden per Upload eingelesen, eine KI erkennt Termine und Aufgaben und legt sie zur Prüfung in Notion ab. Kern des Projekts ist eine messbasierte Entscheidung: lokales Modell gegen Cloud-Modell im direkten Vergleich, mit Hybrid-Lösung als Ergebnis. Dazu Datenschutz-Maßnahmen von Anfang an und offen benannte Grenzen. Pilotprojekt meiner IHK-Prüfung zur KI-Integration Managerin.
+
+`Privacy by Design` · `Modellvergleich` · `Human-in-the-Loop` · `n8n` · `Ollama` · `Groq` · `Notion`
+
 ### [KI-Assistent für den IT-Service-Desk](https://github.com/Gundula-automates/ki-servicedesk-pilot)
 Vom Problem Statement über Risikoanalyse und Human-in-the-Loop-Konzept bis zum Pilot-Workflow in n8n. Den Prototyp habe ich selbst gebaut und getestet – um zu verstehen, was technisch möglich ist, wo die Grenzen liegen und welche Fragen ein Projektteam klären muss.
 
@@ -24,11 +29,11 @@ Bauangebote kommen als PDF, Word-Datei oder Foto. Mein n8n-Workflow liest sie ei
 
 ## Methoden & Werkzeuge
 
-**Zertifizierungen:** Lean Six Sigma Green Belt · Professional Scrum Master I (PSM I)
+**Zertifizierungen:** KI-Integration Manager (IHK) · Lean Six Sigma Green Belt · Professional Scrum Master I (PSM I)
 
 **Projektmanagement:** Scrum, DMAIC, SMART-Ziele, RACI, Risikoregister, PDCA, Change-Management (Kotter, SCARF)
 
-**Technisches Verständnis:** Workflow-Automatisierung (n8n), KI-Agenten und RAG, lokale Modelle (Ollama), Notion, Microsoft 365
+**Technisches Verständnis:** Workflow-Automatisierung (n8n), KI-Agenten und RAG, lokale Modelle (Ollama), Notion, Modellvergleich mit Testprotokoll, Microsoft 365
 
 ## Kontakt
 
